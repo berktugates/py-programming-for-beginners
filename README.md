@@ -8,6 +8,7 @@ Let's write our first Python code!
 print("Hello World!")
 ```
 <br>
+
 ### List of Contents
 ------------------------
 #### Basics
@@ -21,6 +22,7 @@ print("Hello World!")
 #### Advanced
 * Coming Soon...
 <br>
+
 ### Exercises references
 -------------------------
 * [Yazılım Kodlama](https://www.yazilimkodlama.com/programlama/python-ornekleri/)
